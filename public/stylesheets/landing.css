@@ -1,6 +1,7 @@
 body {
   background-color: #000;
 }
+
 #landing-header {
   z-index: 1;
   position: relative; 
@@ -9,6 +10,7 @@ body {
 }
 #landing-header h1 {
   color: #fff;
+  margin-bottom: 1.5rem;
 }
 .slideshow { 
   position: fixed;
